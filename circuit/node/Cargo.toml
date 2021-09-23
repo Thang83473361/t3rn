@@ -2,7 +2,7 @@
 name = "circuit"
 description = "Circuit node"
 version = "0.1.0"
-authors = ["MaciejBaj <maciej@maciejbaj.com>"]
+authors = ["t3rn ltd. <team@t3rn.io>"]
 edition = "2018"
 homepage = "https://t3rn.io"
 license = "Apache 2.0"
